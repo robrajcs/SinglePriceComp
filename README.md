@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/robrajcs/SinglePriceComp)
-- Live Site URL: [Add live site URL here](https://robrajcs.github.io/SinglePriceComp/)
+- Solution URL: [https://github.com/robrajcs/SinglePriceComp](https://github.com/robrajcs/SinglePriceComp)
+- Live Site URL: [https://robrajcs.github.io/SinglePriceComp/](https://robrajcs.github.io/SinglePriceComp/)
 
 ## My process
 
