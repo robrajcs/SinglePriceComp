@@ -1,0 +1,71 @@
+:root {
+    --cyan: hsl(179, 62%, 43%);
+    --bright-yellow: hsl(71, 73%, 54%);
+    
+    --light-gray: hsl(204, 43%, 93%);
+    --grayish-blue: hsl(218, 22%, 67%);
+}
+
+* 
+,*::before
+,*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: Karla;
+    font-weight: 400;
+    background-color: var(--light-gray);
+    color: var(--grayish-blue);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+main {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+h1 {
+    color: var(--cyan);
+}
+h1+p {
+    color: var(--bright-yellow);
+}
+
+h2 {
+    color: white;
+}
+
+section {
+    padding: 2rem 1rem;
+    width: 100%;
+}
+.section-top {
+    background-color: white;
+}
+.section2 {
+    color: var(--light-gray);
+}
+.section-left {
+    background-color: var(--cyan);
+}
+
+.section-right {
+    background-color: var(--cyan);
+    
+}
+
+button {
+    background-color: var(--bright-yellow);
+}
